@@ -1,4 +1,4 @@
-#RabbitMQ Message Queue Using .NET Core 6 Web API
+# RabbitMQ Message Queue Using .NET Core 6 Web API
 
 * Esse projeto é uma implementação básica de rabbitmq message queue usando .net core 6 como produtor de mensagens e uma aplicação console como consumidora.
 
@@ -28,3 +28,5 @@ docker run --rm -it -p 15672:15672 -p 5672:5672 rabbitmq:3-management
 ```
 
 
+> [!NOTE]
+> Esse projeto foi desenvolvido apenas para fins de aprendizado
